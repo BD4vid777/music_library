@@ -20,3 +20,5 @@ def print_command_result(message):
     vertical_spacing = 2
 
     print(vertical_spacing * '\n' + message)
+
+print("Hello World Test")
